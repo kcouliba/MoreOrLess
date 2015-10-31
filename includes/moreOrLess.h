@@ -14,4 +14,6 @@
 
 typedef int bool;
 
+void    moreOrLess(int level);
+
 #endif // MOREORLESS_H
